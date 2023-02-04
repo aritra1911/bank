@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+*.mp3
+*.mp4
+*.mkv
+*.flac
+.DS_Store
+venv/
+*.swp
+*.dat
+migrations/
+*.db
