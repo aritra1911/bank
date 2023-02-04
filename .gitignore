@@ -10,3 +10,4 @@ venv/
 *.dat
 migrations/
 *.db
+*.sqlite3
